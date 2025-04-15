@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Saurish Tripathi
 
-<!--
-**Saurish-t/Saurish-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things with AI, coding apps that solve real problems, and diving into projects where tech meets impact.
 
-Here are some ideas to get you started:
+-  Into machine learning, computer vision, and making data useful
+-  Guitarist who learns various songs until it sounds just right
+-  Cricket fan — caught a match ball on April 14th, 2025!
+-  Built award-winning apps like Focusr (Congressional App Challenge)
+-  Always chasing cool problems, especially at hackathons and clubs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Currently a student at TJHSST, experimenting with ideas that might turn into something awesome.
+
+Let's talk!
+saurish.st@gmail.com
