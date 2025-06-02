@@ -11,5 +11,6 @@ I like building things with AI, coding apps that solve real problems, and diving
 > Currently a student at TJHSST, experimenting with ideas that might turn into something awesome.
 
 > Feel free to reach out if we can figure out access to some of my private repos
+
 Let's talk!
 saurish.st@gmail.com
