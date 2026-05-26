@@ -4,7 +4,7 @@ I like building things with AI, coding apps that solve real problems, and diving
 
 -  Into machine learning, computer vision, and making data useful
 -  Guitarist who learns various songs until it sounds just right
--  Cricket fan — caught a match ball on April 14th, 2025!
+-  Cricket fan - caught a match ball on April 14th, 2025!
 -  Built award-winning apps like Focusr (Congressional App Challenge)
 -  Always chasing cool problems, especially at hackathons and clubs
 
